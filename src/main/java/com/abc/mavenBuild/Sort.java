@@ -1,6 +1,6 @@
 package com.abc.mavenBuild;
 
-public class sort 
+public class Sort 
 {
     public static int[] sorting(int l[]) {
     	for(int i=0;i<l.length-1;i++) {
